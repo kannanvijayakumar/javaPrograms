@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+  long longvar = 688888;
+  System.out.println("The value of long " + longvar);
+  }
+}
