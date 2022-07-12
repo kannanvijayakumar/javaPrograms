@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+  double double_var = 566.77888d;
+  System.out.println("The value of double " + double_var);
+  }
+}
