@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+  boolean myBool = true;
+  System.out.println("The value of boolean " + myBool);
+  }
+}
