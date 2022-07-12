@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
   short var = 3;
-  System.out.println("The value of short" + var);
+  System.out.println("The value of short " + var);
   }
 }
