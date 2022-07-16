@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+  int intNumber = (int) 5.4f;
+    System.out.println("The value of intNumber is " + intNumber);
+  }
+}
