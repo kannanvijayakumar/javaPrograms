@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+  float floatNumber  = 5;
+    System.out.println("The value of floatNumber is " + floatNumber);
+  }
+}
