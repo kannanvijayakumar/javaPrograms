@@ -1,0 +1,32 @@
+public class Main {
+  public static void main(String[] args) {
+  
+  int[] numbers = new int[5];
+  System.out.println(numbers[0]);
+  
+  int nos[] = new int[5];
+  System.out.println(nos[0]);
+  
+  int entries[] = new int[]{1,2,3,4,5};
+  System.out.println(entries[3]);
+  
+  int entry[] = {1,2,3,4,5};
+  System.out.println(entries[1]);
+  
+  boolean characters[] = new boolean[5];
+  System.out.println(characters[0]);
+  
+  String names[] = new String[2];
+  System.out.println(names[1]);
+  
+  names[0] = "Java";
+  names[1] = "Session";
+  System.out.println(names[1]);
+  
+  System.out.println(names.length); 
+  
+  }
+  
+}
+  
+  
